@@ -1,0 +1,11 @@
+EIP License Draft #2
+
+~~~
+This copyrighted work is managed by Emergency Information Provider (hereinafter referred to as EIP). The copyright shall be in principle in EIP unless otherwise stated.
+Distribution of false information and doing other nuisances behavior using this copyrighted work is forbidden. Also, we prohibit any act that violates the rules of constitution, law, ordinance etc of Japan and the use region.
+EIP will not mention the use and distribution of some or all of the contents of this copyrighted work.
+This copyrighted work is produced by EIP and its contributors, but EIP will NOT involve in all problems arising in using the copyrighted work.
+~~~
+
+Copyright (c) 2018 Emergency Information Provider
+Emergency Information Provider 2018/10/05
